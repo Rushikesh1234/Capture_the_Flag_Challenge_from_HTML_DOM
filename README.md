@@ -47,8 +47,9 @@ Initially, I have fetch the flag using the step 1 and 2. For this, I have used P
 
 <img width="474" alt="image" src="https://github.com/Rushikesh1234/Capture_the_Flag_Challenge/assets/38386736/83eac2d3-495f-4a9e-8a5b-064c93127251">
 
-<img width="474" alt="image" src="https://github.com/Rushikesh1234/Capture_the_Flag_Challenge/assets/38386736/250de74d-d966-4a75-a9bc-4b69c2f5826e">
+<img width="958" alt="image" src="https://github.com/Rushikesh1234/Capture_the_Flag_Challenge/assets/38386736/8e0afe83-a5cb-4f92-8b53-788b3eec81ab">
 
 Then, I used this url in my react page, and display that flag in list format after every interval. You can see React project in Github repository.
 
-<img width="474" alt="image" src="https://github.com/Rushikesh1234/Capture_the_Flag_Challenge/assets/38386736/a412515a-a295-4535-861b-cdfd3c22b7a1">
+<img width="958" alt="image" src="https://github.com/Rushikesh1234/Capture_the_Flag_Challenge/assets/38386736/9fe23392-1cfc-4e05-ad1c-8a28b6627a03">
+
